@@ -11,7 +11,7 @@
 		"skipLibCheck": true,
 		"forceConsistentCasingInFileNames": true,
 		"outDir": "package/dist",
-		"declarationDir": "package/types",
+		"declarationDir": "dist/types",
 		"declaration": true,
 		"emitDeclarationOnly": true
 	},
